@@ -11,5 +11,4 @@ for line in data:
     else:
         score += int(line)
 
-
 print(f"PART 1 SOLUTION: {max(all)}")
